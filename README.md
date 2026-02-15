@@ -3,6 +3,7 @@
 Generate Minecraft skins from text prompts using [Nano Banana Pro](https://replicate.com/google/nano-banana-pro) on Replicate. Provide a description, and the tool produces a ready-to-use 64x64 skin PNG with transparent background.
 
 ![Example output](screenshot.png)
+*Example output for the prompt "Jesus Christ".*
 
 ## Setup
 
